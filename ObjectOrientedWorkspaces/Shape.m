@@ -8,8 +8,8 @@ classdef Shape
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         %       Put your code below      %
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-        CalculatePerimeter();
-        CalculateArea();
+        CalculatePerimeter(obj);
+        CalculateArea(obj);
     end
     
 end
